@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Second Thought</string>
+    <string name="stat_total_today">Total screen time today: %1$s</string>
+
+    <string name="setup_title">Two quick setup steps</string>
+    <string name="setup_usage_hint">Second Thought needs usage access to rank your apps by screen time. Tap below, find Second Thought in the list, and allow it.</string>
+    <string name="setup_a11y_hint">One more: enable the Second Thought accessibility service so it can notice when a gated app opens. Tap below and toggle it on.</string>
+    <string name="setup_action">Open settings</string>
+
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+
+    <string name="search_hint">Search apps…</string>
+    <string name="list_header">Apps, ranked by today\'s usage</string>
+
+    <string name="intercept_title">Hold on — %1$s?</string>
+    <string name="intercept_subtitle">You\'ve spent %1$s here today. Still want in?</string>
+    <string name="intercept_continue">Yes, continue</string>
+    <string name="intercept_back">Not now</string>
+
+    <string name="accessibility_service_description">Lets Second Thought notice when a gated app opens, so it can ask “are you sure?” before you fall in.</string>
+</resources>
